@@ -23,13 +23,13 @@ Fork the repo, run npm i to install the node modules and then run node index.js
 No need to contribute 
 
 ## Tests
-undefined
+No tests in this project
 
 ## License
 MIT
 
 ## Questions
 
-Github: [https://github.com/usualketchup](https://github.com/usualketchup)
 ![GitHub Profile Image:](https://avatars3.githubusercontent.com/u/47284380?v=4)
-Email: usualketchup@berkeley.edu
+Github: [https://github.com/usualketchup](https://github.com/usualketchup)
+Email: [usualketchup@berkeley.edu](usualketchup@berkeley.edu)
