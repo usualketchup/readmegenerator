@@ -49,7 +49,7 @@ inquirer.prompt([
 ]).then(answers => {
   console.log(answers);
   api.getUser(answers.username, function (apiData) {
-    writeToFile("README.md", answers, apiData);
+    writeToFile("output/README.md", answers, apiData);
   })
 }).catch(err => {
   throw err;

@@ -31,9 +31,9 @@ ${answers.license}
 
 ## Questions
 
-Github: [${apiData.data.html_url}](https://github.com/usualketchup)
-![GitHub Profile Image:](${apiData.data.avatar_url})
-Email: ${apiData.data.email}
+* ![GitHub Profile Image:](${apiData.data.avatar_url})
+* Github: [${apiData.data.html_url}](https://github.com/usualketchup)
+* Email: ${apiData.data.email}
 `;
 }
 

@@ -3,7 +3,10 @@
 # README Generator
 
 ## Description
-This project utilizes multiple different npm installations like inquirer and axios to create a README.md for a repository
+This project utilizes multiple different npm installations like inquirer and axios to create a README.md for a repository.
+
+## Application Functionality Demonstration:
+https://drive.google.com/file/d/16cwxNUvqhQV52Gau1fvcnVg4bZ6RG6ND/view
 
 ## Table of Contents
 - [Installation](#installation)
@@ -23,7 +26,7 @@ Fork the repo, run npm i to install the node modules and then run node index.js
 No need to contribute 
 
 ## Tests
-undefined
+No tests
 
 ## License
 MIT
